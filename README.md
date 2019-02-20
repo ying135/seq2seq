@@ -1,1 +1,1 @@
-seq2seq
+copy from https://github.com/lancopku/DeconvDec
